@@ -12,3 +12,13 @@ class HeadersPage extends StatelessWidget {
     );
   }
 }
+
+
+class EjemploPage extends StatelessWidget {
+  const EjemploPage({Key key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Center();
+  }
+}
